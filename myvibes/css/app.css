@@ -1,0 +1,112 @@
+ /*
+	   *  Your created style for login here.
+	   *  Author       : Cherry Mae Fuentes
+	   *  Date created : November 5,2012
+       *  Date modified: November 5,2012
+	   */
+	  body {
+        padding-top: 60px;
+        padding-bottom: 40px;
+		background-image:url("../img/music.jpeg");
+		background-size: 100% Auto;
+		background-attachment:fixed;
+      }
+	  form {
+	  margin: 0 0 5px;
+	  }
+	  
+	  fieldset {
+	  padding: 0; 
+	  margin-left: 5px;
+	  border: 0;
+	  }
+	  
+	  p{
+	  color: #ffffff;
+	  font-size: 16px;}
+	  h4{
+	  font-size: 24px;
+	  color: #ffffff;}
+	  
+	  .row{
+	  margin-bottom:20px;
+	  }
+	  
+	  /*.row[class*="span"]{
+	  background:gray;
+	  }
+	  .span4{
+	  background:gray;}
+	  .span6 {
+	  background:gray;}*/
+	  
+	  .container{
+	  }
+	  .welcome{
+	  *float: left;
+	  *position: relative;
+	  padding:5px;
+	  margin-top: 150px;
+	  }
+	  .form-horizontal{
+	  *float: left;
+	  *margin: -200px 5px 0px 600px;
+	  margin-top: 30px;
+	  padding: 5px;
+	  border-radius: 5px;
+	  background: #E0E0E0;
+	  }
+	  .control-group{
+	  *text-align: center;
+	  margin: 5px 5px 0px 5px;
+	  }
+	  
+	  .control-group2 .checkbox{
+	  margin-left: 15px;}
+	  
+	  .form-horizontal-signup{
+	  *float:left;
+	  *position: relative;
+	  *margin: -35px 0px 20px 600px;
+	  margin-bottom: 30px;
+	  padding: 5px;
+	  border: 1px;
+	  *width:310px;
+	  border-radius: 5px;
+	  background: #E0E0E0;
+	  }
+	  .btn-inverse{
+	  margin-left:5px;}
+	  
+	 .brand{
+	 position: relative;
+	 margin: -7px 0px -7px 0px;
+	 }
+	 .background1 {
+		background: #E0E0E0;
+	 }
+	 .span10{
+	 margin: 10px 0px 0px 35px;
+	 border-radius:5px;}
+	 .input-xlarge{
+	 *width:330px;}
+	 .input-large{
+	 *width:250px;}
+	 .pic{
+	 margin: 20px 0px 0px 0px;}
+	 .signin{
+	 margin:10px 5px 10px 5px;}
+	 .top-marg{
+	 margin-top:15px;}
+	 .text1{
+	 width: 265px;}
+	 .text2{
+	 width: 188px;}
+	 .btn{
+	 position:fix;}
+	 .font1{
+	 font-size: 13px;}
+	 .font2{
+	 font-size: 11px;}
+	 .font3{
+	 font-size:12px;}

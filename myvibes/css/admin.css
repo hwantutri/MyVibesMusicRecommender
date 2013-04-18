@@ -1,0 +1,196 @@
+/*
+	   *  Your created style here.
+	   *  Author       : Cherry Mae Fuentes
+	   *  Date created : November 5,2012
+       *  Date modified: November 5,2012
+	   */
+	  body {
+        padding-top: 60px;
+        padding-bottom: 40px;
+		*background-image:url("../img/background/<?php echo $_SESSION['username']; ?>.jpg");
+		background-size: 100% Auto;
+		*background-image:url("../img/oo.jpeg");
+		background-attachment:fixed;
+      }
+	  form {
+	  margin: 0 0 5px;
+	  }
+	  
+	  fieldset {
+	  padding: 0; 
+	  margin-left: 5px;
+	  border: 0;
+	  }
+	  
+	  p{
+	  
+	  font-size: 16px;}
+	  
+	  hr{
+	  margin-top:10px;
+	  }
+	  
+	  .row{
+	  margin-bottom:20px;
+	  }
+	  
+	  /*.row[class*="span"]{
+	  background:gray;
+	  }
+	  .span4{
+	  background:gray;}
+	  .span6 {
+	  background:gray;}*/
+	  
+	  .container{
+	  
+	  }
+	  
+	  .brand{
+	  position: relative;
+	  margin: -7px 0px -7px 0px;
+	 }
+	 .navbar-form{
+	 width:180px;
+	 margin-right:0px;
+	 }
+	 .spacing{
+	 margin-right:52px;
+	 }
+	 
+	 .span1 .form-profile{
+	
+	 position: relative;
+	 *width: 310px;
+	 border: 1px;
+	 border-radius: 5px;
+	 background: #E0E0E0;
+	 }
+
+	 .form-timeline{
+	 
+	 *margin: 0px 0px 0px 10px;
+	 padding: 5px;
+	 *width: 550px;
+	 min-height: 500px;
+	 border: 1px;
+	 border-radius: 5px;
+	 *background: #E0E0E0; 
+	 }
+	 .timeline-title{
+	 font-size: 16px;
+	 margin: 5px 5px 5px 5px;
+	 }
+	 .prof-pic{
+	 margin: 20px 0px 10px 0px;
+	 opacity:10.0;
+	 filter:alpha(opacity=100%);
+	 }
+	 
+	 .prof-info{
+	 *margin: 15px 1px 1px 0px;
+	 font-size: 14px; 
+	 }
+	 .prof-info2{
+	 margin: 10px 10px 0px 30px;
+	
+	}
+	 .show-grid {
+	  margin-top: 0px;
+	  margin-bottom: 20px;
+	  margin-left: 0px;
+	  }
+	  .muted{
+	  font-size: 12px;
+	  }
+	  .divider{
+	  color:gray;}
+	  .span4{
+	  float: left;
+	  position: relative;
+	  *width: 310px;
+	  border: 1px;
+	  border-radius: 5px; 
+	  }
+	  .recommendation{
+	  border-radius:5px;
+	  margin-bottom:20px;}
+	 .recommendation-title{
+	 font-size: 16px;
+	 margin: 10px 5px 5px 10px;
+	 }
+	 
+	 .background1 {
+		background: #E0E0E0;
+		opacity:0.9;
+		filter:alpha(opacity=90);
+	 }
+	 
+	 .profile-circle {
+		border-radius:5px;
+	 }
+	 .links{
+	font-family:Arial, sans-serif;
+	font-size: 12px;
+	color: gray;
+	margin-left:10px;}
+	
+	.form-tracks{
+	float: left;
+	 position: relative;
+	 *margin: 0px 0px 0px 10px;
+	 padding: 5px;
+	 width: 100%;
+	 min-height: 500px;
+	 border: 1px;
+	 border-radius: 5px;
+	 *background: #E0E0E0; 
+	 }
+	 .form-tracks2{
+	*float: left;
+	 *position: relative;
+	 *margin: 0px 0px 0px 10px;
+	 padding: 5px;
+	 *width: 550px;
+	 min-height: 500px;
+	 border: 1px;
+	 border-radius: 5px;
+	 *background: #E0E0E0; 
+	 }
+	 .adjustment1{
+	 margin: 20px 1px 20px 20px;
+	 width:60%;}
+	 .adjustment2{
+	 margin: 20px 1px 1px 0px;}
+	 .adjustment3{
+	 margin: 5px 1px 1px 20px;}
+	 .font1{
+	 font-size: 13px;}
+	 .font2{
+	 font-size: 11px;}
+	 .font3{
+	 font-size:12px;}
+	 .adjustment{
+	 margin: 3% 5% 5% 20%;}
+	 .list-friends{
+	 border: 1px;
+	 border-radius:5px;}
+	 .friends-title{
+	 font-size: 16px;
+	 margin: 10px 5px 10px 10px;}
+	 .background2{
+	 background:#a1a1a1;
+	 height:60px;
+	 border-radius:5px;}
+	 .table{
+	 cursor:pointer;}
+	 .list-reco{
+	 margin: 5px 5px 15px 15px;}
+	 .list-timeline{
+	 margin: 5px 5px 15px 15px;}
+	 .list1{
+	 margin-left:10%;}
+	.prof-name{
+	*margin-top:10px}	
+	.pic{
+	margin: 20px 0px 0px 0px;}

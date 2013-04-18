@@ -1,0 +1,97 @@
+ /*
+	   *  Your created style for edit-prof here.
+	   *  Author       : Cherry Mae Fuentes
+	   *  Date created : November 5,2012
+       *  Date modified: November 5,2012
+	   */
+	  body {
+        padding-top: 60px;
+        padding-bottom: 40px;
+		background-size: 100% Auto;
+		background-image:url("../img/oo.jpeg");
+		background-attachment:fixed;
+      }
+	  form {
+	  margin: 0 0 5px;
+	  }
+	  
+	  fieldset {
+	  padding: 0; 
+	  margin-left: 5px;
+	  border: 0;
+	  }
+	  
+	  p{
+	  color: black;
+	  font-size: 16px;}
+	  h4{
+	  font-size: 24px;
+	  color: #ffffff;}
+	  
+	  .row{
+	  margin-bottom:20px;
+	  }
+	  
+	  /*.row[class*="span"]{
+	  background:gray;
+	  }
+	  .span4{
+	  background:gray;}
+	  .span6 {
+	  background:gray;}*/
+	  
+	  .container{
+	  }
+	  .welcome{
+	  *float: left;
+	  *position: relative;
+	  padding:5px;
+	  margin-top: 150px;
+	  }
+	  .form-horizontal{
+	  *float: left;
+	  *margin: -200px 5px 0px 600px;
+	  padding: 5px;
+	  border-radius: 5px;
+	  background: #E0E0E0;
+	  }
+	  .control-group{
+	  *text-align: center;
+	  margin: 5px 5px 0px 5px;
+	  }
+	  
+	  .control-group2 .checkbox{
+	  margin-left: 15px;}
+	  
+	 .brand{
+	 position: relative;
+	 margin: -7px 0px -7px 0px;
+	 }
+	 .background1 {
+		background: #E0E0E0;
+	 }
+	 .span10{
+	 margin: 10px 0px 0px 35px;
+	 border-radius:5px;}
+	 .input-xlarge{
+	 width:300px;}
+	 .pic{
+	 margin: 20px 0px 0px 0px;}
+	 .signin{
+	 margin:10px 5px 10px 5px;}
+	 .text1{
+	 width: 265px;}
+	 .text2{
+	 width: 188px;}
+	 .top-marg{
+	 margin-top:15px;}
+	 .save{
+margin-top:40px;}
+	.but{
+	margin:30px 5px 5px 140px;}
+	.but2{
+	*margin-left:60px;
+	margin-top:250px;
+	}
+	  .font1{
+	 font-size: 13px;}
